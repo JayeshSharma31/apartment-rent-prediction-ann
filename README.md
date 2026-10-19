@@ -72,7 +72,7 @@ The following results were obtained on the test dataset:
 
 The repository includes an actual-versus-predicted rent scatter plot to help assess model performance.
 
-![Actual vs Predicted Apartment Rent](images/actual_vs_predicted.png)
+![Actual vs Predicted Apartment Rent](images/actual_vs_predicted_plot.png)
 
 ## How to Run the Project
 
